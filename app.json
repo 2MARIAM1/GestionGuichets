@@ -1,7 +1,9 @@
 {
   "expo": {
+    "jsEngine": "hermes",
     "name": "test_app",
     "slug": "test_app",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "newArchEnabled": true
   }
 }
